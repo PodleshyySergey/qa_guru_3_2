@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160476c9-6175-4f79-a0fb-95cf8e721c70" name="Default Changelist" comment="" />
+    <list default="true" id="160476c9-6175-4f79-a0fb-95cf8e721c70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/CheckFormTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/CheckFormTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/CheckFormTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/CheckFormTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-CheckFormTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-CheckFormTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CheckFormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckFormTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +58,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/qa_guru_3_2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kJSnJb49lcoCgv5fHIneN4iLOr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,9 +69,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Devel\qa_guru_3_2_11\src\test\resorses" />
+    </key>
   </component>
   <component name="RunManager" selected="Gradle.CheckFormTests">
     <configuration name="CheckFormTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -117,45 +149,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="317" key="GridCell.Tab.0.bottom" timestamp="1605452812093">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1605774699772">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605423716851" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774699772" />
     <state width="1237" height="317" key="GridCell.Tab.0.bottom/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605452812093" />
-    <state width="1237" height="317" key="GridCell.Tab.0.center" timestamp="1605452812093">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1605774699772">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605423716851" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774699772" />
     <state width="1237" height="317" key="GridCell.Tab.0.center/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605452812093" />
-    <state width="1237" height="317" key="GridCell.Tab.0.left" timestamp="1605452812092">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1605774699772">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605423716851" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774699772" />
     <state width="1237" height="317" key="GridCell.Tab.0.left/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605452812092" />
-    <state width="1237" height="317" key="GridCell.Tab.0.right" timestamp="1605452812093">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1605774699772">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605423716944" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774699772" />
     <state width="1237" height="317" key="GridCell.Tab.0.right/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605452812093" />
-    <state width="1237" height="284" key="GridCell.Tab.1.bottom" timestamp="1605451947197">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="66" key="GridCell.Tab.1.bottom" timestamp="1605774628388">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605423716852" />
+    <state width="1877" height="66" key="GridCell.Tab.1.bottom/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774628388" />
     <state width="1237" height="284" key="GridCell.Tab.1.bottom/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605451947197" />
-    <state width="1237" height="284" key="GridCell.Tab.1.center" timestamp="1605451947196">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="66" key="GridCell.Tab.1.center" timestamp="1605774628388">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605423716852" />
+    <state width="1877" height="66" key="GridCell.Tab.1.center/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774628388" />
     <state width="1237" height="284" key="GridCell.Tab.1.center/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605451947196" />
-    <state width="1237" height="284" key="GridCell.Tab.1.left" timestamp="1605451947196">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="66" key="GridCell.Tab.1.left" timestamp="1605774628388">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605423716852" />
+    <state width="1877" height="66" key="GridCell.Tab.1.left/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774628388" />
     <state width="1237" height="284" key="GridCell.Tab.1.left/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605451947196" />
-    <state width="1237" height="284" key="GridCell.Tab.1.right" timestamp="1605451947197">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1877" height="66" key="GridCell.Tab.1.right" timestamp="1605774628388">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1493" height="284" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605423716852" />
+    <state width="1877" height="66" key="GridCell.Tab.1.right/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605774628388" />
     <state width="1237" height="284" key="GridCell.Tab.1.right/1280.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1605451947197" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1605418880685">
       <screen x="0" y="0" width="1536" height="824" />
