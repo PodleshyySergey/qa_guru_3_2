@@ -1,4 +1,6 @@
 import com.codeborne.selenide.Condition;
+import com.codeborne.selenide.Configuration;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Selenide.$x;
@@ -29,9 +31,16 @@ public class CheckFormTests {
         Toolkit.getDefaultToolkit().getSystemClipboard().setContents(stringSelection, null);
     }
 
-    @Order(1)
+//    @BeforeAll
+//    static void setUp() {
+//        Configuration.startMaximized = true;
+//        Configuration.browser = "chrome";
+//    }
+
+    @Order(0)
     @Test
     public void fillForm() throws AWTException {
+        Configuration.startMaximized = true;
         open("https://demoqa.com/automation-practice-form");
         $x("//input[@id='firstName']").setValue(firstName);
         $x("//input[@id='lastName']").setValue(lastName);
@@ -59,32 +68,32 @@ public class CheckFormTests {
     }
 
     @Test
-    @Order(2)
+    @Order(1)
     public void checkName() {
         $x("//tbody//td[contains(text(),'Student Name')]/../td[2]").shouldHave(Condition.text(firstName));
         $x("//tbody//td[contains(text(),'Student Name')]/../td[2]").shouldHave(Condition.text(lastName));
     }
 
     @Test
-    @Order(3)
+    @Order(2)
     public void checkMail() {
         $x("//tbody//td[contains(text(),'Student Email')]/../td[2]").shouldHave(Condition.text(mail));
     }
 
     @Test
-    @Order(4)
+    @Order(3)
     public void CheckGender() {
         $x("//tbody//td[contains(text(),'Gender')]/../td[2]").shouldHave(Condition.text("Male"));
     }
 
     @Test
-    @Order(5)
+    @Order(4)
     public void checkPhone() {
         $x("//tbody//td[contains(text(),'Mobile')]/../td[2]").shouldHave(Condition.text(phoneNumber));
     }
 
     @Test
-    @Order(6)
+    @Order(5)
     public void checkBirth() {
         $x("//tbody//td[contains(text(),'Date of Birth')]/../td[2]").shouldHave(Condition.text(date));
         $x("//tbody//td[contains(text(),'Date of Birth')]/../td[2]").shouldHave(Condition.text("April"));
@@ -92,13 +101,13 @@ public class CheckFormTests {
     }
 
     @Test
-    @Order(7)
+    @Order(6)
     public void checkSubjects() {
         $x("//tbody//td[contains(text(),'Subjects')]/../td[2]").shouldHave(Condition.text(subjects));
     }
 
     @Test
-    @Order(8)
+    @Order(7)
     public void checkHobbies() {
         $x("//tbody//td[contains(text(),'Hobbies')]/../td[2]").shouldHave(Condition.text("Reading"));
         $x("//tbody//td[contains(text(),'Hobbies')]/../td[2]").shouldHave(Condition.text("Music"));
@@ -106,19 +115,19 @@ public class CheckFormTests {
 
 //    Тут еще нужна проверка на наличие имени прикрепленного файла
     @Test
-    @Order(9)
+    @Order(8)
     public void checkAddress() {
         $x("//tbody//td[contains(text(),'Address')]/../td[2]").shouldHave(Condition.text(currentAddress));
     }
 
     @Test
-    @Order(10)
+    @Order(9)
     public void checkFileName() {
         $x("//tbody//td[contains(text(),'Picture')]/../td[2]").shouldHave(Condition.text(fileName));
     }
 
     @Test
-    @Order(11)
+    @Order(10)
     public void checkStateAndCity() {
         $x("//tbody//td[contains(text(),'State and City')]/../td[2]").shouldHave(Condition.text(state));
         $x("//tbody//td[contains(text(),'State and City')]/../td[2]").shouldHave(Condition.text(city));
