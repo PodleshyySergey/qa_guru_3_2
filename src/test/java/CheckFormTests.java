@@ -8,8 +8,8 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class CheckFormTests {
 
-    String firstName = "Ivan";
-    String lastName = "Ivanov";
+    String firstName = "Иван";
+    String lastName = "Иванов";
     String mail = "ivan@mail.com";
     String gender = "Male";
     String phoneNumber = "8911321127";
